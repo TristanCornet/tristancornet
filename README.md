@@ -4,25 +4,25 @@
 Je m'appelle Tristan, j'ai 27 ans et je vis à Lyon. Je suis passionné par le sport, la musique et les jeux vidéo.
 
 ## 🚀 Mon parcours
-Après un DUT Techniques de Commercialisation et un Master 2 Strategic and Operational Marketing du Programme Grande École de l'EM Strasbourg, j'ai décidé de m'orienter vers le développement web. J'ai donc suivi deux formations :
+Après l'obtention d'un DUT Techniques de Commercialisation et du Master 2 du Programme Grande École de l'EM Strasbourg en Marketing Stratégique et Opérationnel, j'ai décidé de m'orienter vers le développement web. J'ai donc suivi deux formations :
 
-- **Formation Intégrateur Web (OpenClassrooms)** : J'ai découvert les bases du développement web et développé mes compétences frontend.
-- **Formation Concepteur Développeur d'Applications (O'clock)** : En alternance, j'ai acquis des compétences complètes en frontend et backend, allant de la conception au déploiement d'applications web, tout en gagnant une expérience concrète en entreprise.
+- **Formation - Intégrateur Web (OpenClassrooms)** : J'ai découvert les bases du développement web et développé mes compétences frontend.
+- **Formation - Concepteur Développeur d'Applications (O'clock)** : En alternance, j'ai acquis des compétences complètes en frontend et backend, allant de la conception au déploiement d'applications web, tout en acquérant une expérience concrète en entreprise.
 
 ## 💡 Ce que vous trouverez ici
 Sur ce profil GitHub, vous trouverez des projets mettant en avant mes compétences en :
-- **Frontend** : React, TypeScript, TailwindCSS
-- **Backend** : Node.js, NestJS, Prisma, PostgreSQL
+- **Frontend** : React, Vue.js, TailwindCSS
+- **Backend** : Express, NestJS, Prisma, PostgreSQL, Spring Boot
 - **Autres outils** : Docker, Jest, Swagger, GitHub Actions
 
 ### Quelques projets récents :
 - **[TagIt](https://github.com/TristanCornet/tag-it)** : Une application de carte interactive pour partager et organiser vos lieux préférés via des marqueurs publics ou privés et des tags personnalisés.
 
 ## 🎯 Ce que je recherche
-Je suis à la recherche de mon premier poste en tant que développeur web dans une entreprise dynamique et bienveillante qui :
+Je suis à la recherche de mon premier poste en tant que développeur full stack dans une entreprise dynamique et bienveillante qui :
 - Valorise l'apprentissage et le partage de connaissances,
 - Propose des projets stimulants et variés,
-- Travaille avec une stack technique moderne,
+- Travaille avec une stack technique moderne et diversifiée qui me permette d'utiliser plusieurs langages,
 - Favorise l’autonomie et la collaboration.
 
 ## 🤝 Mes atouts
@@ -34,5 +34,6 @@ Je suis à la recherche de mon premier poste en tant que développeur web dans u
 Si vous êtes à la recherche d'un développeur passionné et motivé, n'hésitez pas à me contacter :
 - **Email** : tcornet74@hotmail.com
 - **LinkedIn** : [Tristan Cornet](https://www.linkedin.com/in/tristan-cornet/)
+- **Site web** : [Portfolio](https://tristancornetdev.vercel.app/)
 
 Je serais ravi d'échanger avec vous et de discuter de vos projets !
